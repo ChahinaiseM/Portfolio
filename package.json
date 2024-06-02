@@ -1,7 +1,7 @@
 {
     "name": "portfolio",
     "version": "0.1.0",
-    "homepage": ".",
+    "homepage": "https://chahinaisem.github.io/Portfolio",
     "private": false,
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
