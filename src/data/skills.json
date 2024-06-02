@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Pack Office",
+        "icon": "bi-file-earmark-medical-fill",
+        "overview": true,
+        "description": "Pack Office",
+        "technologies": [
+            "Excel : Avancé",
+            "PowerPoint : Intermédiaire",
+            "Word : Intermédiaire"
+        ]
+    },
+    {
+        "title": "Core Media Studio (CMS)",
+        "icon": "bi-laptop",
+        "overview": true,
+        "technologies": ["Bannières : Avancé", "Landing Page : Bases"]
+    },
+    {
+        "title": "SAP",
+        "icon": "bi-wallet-fill",
+        "overview": true,
+        "technologies": ["Facturation : Intermédiaire"]
+    },
+    {
+        "title": "Canva",
+        "icon": "bi-easel3-fill",
+        "overview": true,
+        "technologies": ["Intermédiaire"]
+    },
+    {
+        "title": "Mailchimp",
+        "icon": "bi-envelope-at-fill",
+        "overview": true,
+        "technologies": ["Bases"]
+    },
+    {
+        "title": "Photoshop",
+        "icon": "bi-file-image-fill",
+        "overview": true,
+        "technologies": ["Bases"]
+    }
+]

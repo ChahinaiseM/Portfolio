@@ -1,0 +1,56 @@
+[
+    {
+        "start": "2023",
+        "end": "2025",
+        "course": "MSC Marketing, Communication et Stratégie commerciale",
+        "institute": "INSEEC",
+        "location": "Paris (France)",
+        "description": "",
+        "bullets": [
+            "Marketing digital",
+            "Gestion budgétaire",
+            "Social Media strategy",
+            "Négociation"
+        ],
+        "technologies": [
+            "Photoshop",
+            "Github",
+            "Visual Studio Code",
+            "HTML/CSS/JS (bases)"
+        ]
+    },
+    {
+        "start": "2022",
+        "end": "2023",
+        "course": "L3 Échange universitaire",
+        "institute": "Université de Sherbrooke",
+        "location": "Québec (Canada)",
+        "description": "Cours dispensés en anglais",
+        "bullets": [
+            "Marketing",
+            "Communication orale",
+            "Langues (anglais, allemand et espagnol)"
+        ],
+        "technologies": []
+    },
+    {
+        "start": "2020",
+        "end": "2023",
+        "course": "Licence LEA",
+        "institute": "Université d'Artois",
+        "location": "Arras (62000)",
+        "description": "Langues étrangères appliquées",
+        "bullets": ["Option Affaires et Échanges internationaux"],
+        "technologies": ["Mention Très Bien"]
+    },
+    {
+        "start": "",
+        "end": "2020",
+        "course": "Baccalauréat Scientifique",
+        "institute": "Lycée Gambetta",
+        "location": "Arras (62000)",
+        "description": "",
+        "bullets": [],
+        "technologies": ["Mention Très Bien"]
+    }
+]

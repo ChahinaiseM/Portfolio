@@ -1,0 +1,71 @@
+[
+    {
+        "start": "Août 2023",
+        "end": "Aujourd'hui",
+        "role": "Apprentie Trade Makerting Digital France",
+        "company": "EssilorLuxottica",
+        "location": "Paris (France)",
+        "description": "Leader mondial des verres et montures : Ray-Ban, Oakley (Armani, Burberry, Coach, Dolce & Gabbana, Jimmy Choo, Prada, Michael Kors, Oliver Peoples, Persol, Ralph Lauren, Swarovski, Versace...)",
+        "bullets": [
+            "**Marketing Stratégique__ :\n - Création plan marketing pour Smartshopper (outil BtoBtoC)\n - Calendrier mise en avant campagnes des 24 marques Luxottica chez les 15000 clients France",
+            "**Marketing opérationnel__ : écrans digitaux et PLV",
+            "**Commercial__ : rendez-vous client individuels au showroom Paris",
+            "**Evénements__ : promotion du Smartshopper lors d'événements internationaux (Silmo, Roadshows...)",
+            "**Site web__ : Création de bannières et écriture de landing pages pour site clients BtoB",
+            "**Design__ :\n - Kakémonos et stop-rayons \n - Emailing et newsletter",
+            "**Gestion programmes d'exception__ : diamant et prestige",
+            "**Formation en live__ : clients et commerciaux"
+        ],
+        "technologies": [
+            "Excel",
+            "Powerpoint",
+            "Canvas",
+            "SAP",
+            "CMS (Core Media Studio)",
+            "Mailchimp",
+            "Basecamp",
+            "Photoshop (bases)"
+        ]
+    },
+    {
+        "start": "Janvier 2023",
+        "end": "Mai 2023",
+        "role": "Bénévole Radio",
+        "company": "CFAK Radio",
+        "location": "Sherbrooke (Canada)",
+        "description": "Projet indépendant radio universitaire",
+        "bullets": [
+            "Création d'un podcast",
+            "Création d'un balado dans le cadre du projet \"EKÜT\": donnez vie aux murales de l'Université de Sherbrooke",
+            "Micro-trottoir et interviews de professionnels"
+        ],
+        "technologies": []
+    },
+    {
+        "start": "Octobre 2022",
+        "end": "Mai 2023",
+        "role": "Stagiaire",
+        "company": "United For Literacy",
+        "location": "Québec (Canada)",
+        "description": "Recrutement, community management et événementiel",
+        "bullets": [
+            "Gestion des réseaux sociaux",
+            "**Événementiel__ :\n - Organisation\n - Gestion et animation d'événements anglophones",
+            "**Recrutement__ :\n - Entretien de recrutement et formation des bénévoles"
+        ],
+        "technologies": ["Instagram", "Facebook", "Excel"]
+    },
+    {
+        "start": "Juillet 2022",
+        "end": "Août 2022",
+        "role": "Saisonnier Back Office",
+        "company": "Crédit Agricole",
+        "location": "Arras (62000)",
+        "description": "",
+        "bullets": [
+            "Gestion des dossiers de demandes de TPE",
+            "Appels suivis et appréciation clients"
+        ],
+        "technologies": []
+    }
+]

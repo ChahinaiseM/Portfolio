@@ -1,0 +1,116 @@
+[
+    {
+        "start": "",
+        "end": "",
+        "name": "Projet d'école : Forbes",
+        "description": ["Proposition d'éco-conception pour Forbes"],
+        "technologies": ["Canva"],
+        "buttons": [],
+        "videos": [],
+        "images": 11,
+        "imageHeading": "forbes",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Projet d'école : Analyse du marché français du thé et infusions",
+        "description": ["Proposition d'éco-conception pour Forbes"],
+        "technologies": ["Canva"],
+        "buttons": [],
+        "videos": [],
+        "images": 21,
+        "imageHeading": "the",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Création PLV Smartshopper",
+        "description": [
+            "Création d'assets en partenariat avec une agence externe",
+            "Utilisation SAP pour facturation"
+        ],
+        "technologies": ["Canva", "Photoshop", "SAP"],
+        "buttons": [],
+        "videos": [],
+        "images": 6,
+        "imageHeading": "sr",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Projet visuel PLV",
+        "description": ["Visuel de PLV créé sur demande de client"],
+        "technologies": ["Canva", "Photoroom"],
+        "buttons": [],
+        "videos": [],
+        "images": 1,
+        "imageHeading": "plv",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Smartshopper Newsletters",
+        "description": [
+            "Newsletters BtoB (nos clients opticiens) et newsletter BtoBtoC à destination du consommateur final",
+            "Envoyées dans le cadre du tout premier plan marketing Smartshopper (2024) créé par mes soins",
+            "Création de l'identité visuelle du Smartshopper"
+        ],
+        "technologies": ["Canva", "Photoshop", "Pack Office"],
+        "buttons": [],
+        "videos": [],
+        "images": 6,
+        "imageHeading": "sm_newsletter",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Newsletter écrans digitaux : Programme diamant",
+        "description": ["Newsletter BtoB programme"],
+        "technologies": ["Canva", "Pack Office", "Mailchimp"],
+        "buttons": [],
+        "videos": [],
+        "images": 1,
+        "imageHeading": "ed",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Gestion des bannières MyEssilorLuxottica",
+        "description": [
+            "Highlights et Landing Pages du site BtoB ``my.essilorluxottica.com--"
+        ],
+        "technologies": ["Core Media Studio (CMS)"],
+        "buttons": [],
+        "videos": [],
+        "images": 1,
+        "imageHeading": "cms",
+        "overview": true
+    },
+    {
+        "start": "",
+        "end": "",
+        "name": "Kit digitaux et assets vidéo smartshopper",
+        "description": [
+            "Kits digitaux créés à base de contenus digitaux fournis par le corporate"
+        ],
+        "technologies": ["Canva", "Photoshop"],
+        "buttons": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=4CzQqgD0QJc",
+            "https://www.youtube.com/watch?v=jz4znjAFvFk",
+            "https://www.youtube.com/watch?v=PvdEK2PSWUQ",
+            "https://www.youtube.com/watch?v=2RMZ1SzMpKc",
+            "https://www.youtube.com/watch?v=p8RijWUUvFc",
+            "https://www.youtube.com/watch?v=3teEb6W7jmY"
+        ],
+        "images": 0,
+        "imageHeading": "kd",
+        "overview": true
+    }
+]
