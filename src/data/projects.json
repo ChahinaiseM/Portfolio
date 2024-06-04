@@ -34,7 +34,7 @@
         "technologies": ["Canva", "Photoshop", "SAP"],
         "buttons": [],
         "videos": [],
-        "images": 6,
+        "images": 3,
         "imageHeading": "sr",
         "overview": true
     },
@@ -62,7 +62,7 @@
         "technologies": ["Canva", "Photoshop", "Pack Office"],
         "buttons": [],
         "videos": [],
-        "images": 6,
+        "images": 3,
         "imageHeading": "sm_newsletter",
         "overview": true
     },
@@ -105,9 +105,7 @@
             "https://www.youtube.com/watch?v=4CzQqgD0QJc",
             "https://www.youtube.com/watch?v=jz4znjAFvFk",
             "https://www.youtube.com/watch?v=PvdEK2PSWUQ",
-            "https://www.youtube.com/watch?v=2RMZ1SzMpKc",
-            "https://www.youtube.com/watch?v=p8RijWUUvFc",
-            "https://www.youtube.com/watch?v=3teEb6W7jmY"
+            "https://www.youtube.com/watch?v=2RMZ1SzMpKc"
         ],
         "images": 0,
         "imageHeading": "kd",
